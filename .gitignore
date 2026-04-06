@@ -10,9 +10,6 @@ frontend/out/
 backend/node_modules/
 
 # env files
-.env
-.env.*
-.env.local
 
 # logs
 npm-debug.log*
